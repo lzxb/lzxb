@@ -13,3 +13,6 @@
 - https://github.com/vuejs/apollo/pull/93
 - https://github.com/DevExpress/testcafe/pull/1526
 - https://github.com/vuejs/vue/pull/5610
+
+## 个人简介
+我是一名前端工程师，目前致力于研究SSR微服务架构、k线以及如何将页面的性能优化到极致
