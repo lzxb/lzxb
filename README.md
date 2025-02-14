@@ -15,6 +15,6 @@
 - https://github.com/vuejs/vue/pull/5610
 
 ## 个人简介
-我是一名前端工程师，目前致力于研究SSR微服务架构、k线以及如何将页面的性能优化到极致
+我正在使用AI重构前端的工作模式。
 
 正在开发：https://github.com/dp-os/gez
