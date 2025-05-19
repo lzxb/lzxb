@@ -15,6 +15,4 @@
 - https://github.com/vuejs/vue/pull/5610
 
 ## 个人简介
-我正在使用AI重构前端的工作模式。
-
-正在开发：https://github.com/dp-os/gez
+我正在开发基于 ESM 的微前端框架 [Esmx](https://github.com/esmnext/esmx)
